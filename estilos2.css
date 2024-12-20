@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+
+}
+.contenedor{
+    background-color: turquoise;
+    width: 100vw;
+    height: 100vh;
+text-align: center;
+} 
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    padding-top: 15%;
+}
